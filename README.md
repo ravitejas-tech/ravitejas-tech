@@ -1,4 +1,4 @@
-**Hi there, I'm Raviteja 👋**
+# Hi there, I'm Raviteja 👋
 
 I'm a Software Developer who enjoys building web and mobile applications using modern tools, clean code practices, and thoughtful architecture.
 
@@ -6,7 +6,7 @@ I'm a Software Developer who enjoys building web and mobile applications using m
 
 ---
 
-*🛠️ Tech Stack*
+### 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,remix,vue,reactnative,expo,nodejs,express,nest,html,css,tailwind,postgres,mongodb,mysql,prisma,typeorm" />
@@ -14,7 +14,7 @@ I'm a Software Developer who enjoys building web and mobile applications using m
 
 ---
 
-*📈 GitHub Stats*
+### 📈 GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ravitejas-tech&show_icons=true&theme=radical" />
@@ -23,7 +23,7 @@ I'm a Software Developer who enjoys building web and mobile applications using m
 
 ---
 
-*📫 Connect with Me*
+### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raviteja-salva-8a1464272/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR-HANDLE)
@@ -31,6 +31,6 @@ I'm a Software Developer who enjoys building web and mobile applications using m
 
 ---
 
-* ⚡ Fun Fact *
+### ⚡ Fun Fact
 
 I love building developer-focused tools and products that are simple, fast, and useful. Constantly exploring and learning is part of my DNA 💡
