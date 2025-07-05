@@ -1,4 +1,4 @@
-**Hi there, I'm Raviteja 👋**
+****Hi there, I'm Raviteja 👋****
 
 I'm a **Software Developer** who enjoys building web and mobile applications using modern tools, clean code practices, and thoughtful architecture.
 
@@ -6,15 +6,15 @@ I'm a **Software Developer** who enjoys building web and mobile applications usi
 
 ---
 
-* 🛠️ Tech Stack *
+*🛠️ Tech Stack*
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,remix,vue,reactnative,expo,nodejs,express,nest,html,css,tailwind,postgres,mongodb,mysql,prisma,typeorm" />
 </p>
 
 ---
 
-* 📈 GitHub Stats *
+*📈 GitHub Stats*
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ravitejas-tech&show_icons=true&theme=radical" />
