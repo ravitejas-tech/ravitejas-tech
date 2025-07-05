@@ -1,6 +1,6 @@
-****Hi there, I'm Raviteja 👋****
+**Hi there, I'm Raviteja 👋**
 
-I'm a **Software Developer** who enjoys building web and mobile applications using modern tools, clean code practices, and thoughtful architecture.
+I'm a Software Developer who enjoys building web and mobile applications using modern tools, clean code practices, and thoughtful architecture.
 
 🚀 *Current Focus:* Cross-platform app development, solving real-world problems, and building tools.
 
@@ -23,7 +23,7 @@ I'm a **Software Developer** who enjoys building web and mobile applications usi
 
 ---
 
-* 📫 Connect with Me *
+*📫 Connect with Me*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raviteja-salva-8a1464272/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR-HANDLE)
