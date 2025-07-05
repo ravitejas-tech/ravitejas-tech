@@ -1,4 +1,4 @@
-# Hi there, I'm Raviteja 👋
+*Hi there, I'm Raviteja 👋*
 
 I'm a **Software Developer** who enjoys building web and mobile applications using modern tools, clean code practices, and thoughtful architecture.
 
